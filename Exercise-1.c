@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <stdio.h> 
+  
 int main()
-{
-	int studentAge;
-	printf("Enter your age: ");
-	scanf("%d", &studentAge);
-	printf("Your are %d years old\n", studentAge);
-	return 0;
+{ 
+    // Displays the string inside quotations
+    
+    printf("C Programming is a powerful general-purpose language.\n");
+    printf("It is an excellent language to learn to program.\n");
+    return 0;
 }
-	
+
